@@ -1,0 +1,11 @@
+com\bank\bank_management\config\SecurityConfiguration.class
+com\bank\bank_management\service\CustomUserDetailsService.class
+com\bank\bank_management\service\UserService.class
+com\bank\bank_management\controller\HomeController.class
+com\bank\bank_management\model\Role.class
+com\bank\bank_management\repository\RoleRepository.class
+com\bank\bank_management\controller\RegistrationController.class
+com\bank\bank_management\model\User.class
+com\bank\bank_management\repository\UserRepository.class
+com\bank\bank_management\BankManagementApplication.class
+com\bank\bank_management\controller\LoginController.class
